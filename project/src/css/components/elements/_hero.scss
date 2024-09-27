@@ -1,1 +1,28 @@
- 
+ .hero  {
+    padding-top: 220px;
+    padding-bottom: 353px;
+    background-color: #818181;
+    &__content  {
+        max-width: 577px;
+    }
+    &__title    {
+        font-size: 72px;
+        font-weight: 700;
+        line-height: 93px;
+        text-transform: uppercase; 
+        color: $mainBg;
+     }
+     &__span    {
+        color: $accent;
+     }
+     &__text    {
+        margin-bottom: 61px;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 30px;
+        color: $mainBg;
+     }
+     &__btn-outline {
+        margin-right: 24px;
+     }
+ }

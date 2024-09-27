@@ -1,1 +1,12 @@
- 
+ .btn-outline   {
+   padding-left: 40px;
+   padding-right: 40px;
+   color: $mainBg;
+    border: 1px solid $mainBg;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 52px;
+    text-transform: uppercase;
+    color: $mainBg;
+ }

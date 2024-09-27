@@ -1,1 +1,11 @@
- 
+.btn-default   {
+    padding-left: 40px;
+    padding-right: 40px;
+    color: $mainBg;
+     border-radius: 4px;
+     font-size: 16px;
+     font-weight: 700;
+     line-height: 52px;
+     text-transform: uppercase;
+     background-color: $accent;
+  }
