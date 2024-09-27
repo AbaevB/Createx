@@ -1,0 +1,20 @@
+ .nav   {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &__list {
+        display: flex;
+        @include listReset;
+
+
+    }
+    &__item:not(:last-child)    {
+       margin-right: 40px; 
+    }
+    &__link {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 25px;
+        color: $navColor;
+    }
+ }

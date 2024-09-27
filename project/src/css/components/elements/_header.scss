@@ -1,0 +1,17 @@
+ .header    {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    &__container    {
+       display: flex;
+       align-items: center; 
+    }
+    &__logo {
+      margin-right: 60px;
+    }
+    &__nav  {
+      margin-right: 172px;
+    }
+    &__calls    {
+        display: flex;
+    }
+ }

@@ -1,0 +1,80 @@
+ @font-face {
+    font-family: 'ubuntu';
+    font-display: swap;
+    src: local('ubuntu-regular')
+    url("../fonts/ubuntu-regular-webfont.woff2") format('woff2'),
+    url("../fonts/ubuntu-regular-webfont.woff") format('woff');
+    font-weight: 400;
+    font-style: normal;
+ }
+
+ @font-face {
+    font-family: 'ubuntu';
+    font-display: swap;
+    src: local('ubuntu-italic')
+    url("../fonts/ubuntu-italic-webfont.woff2") format('woff2'),
+    url("../fonts/ubuntu-italic-webfont.woff") format('woff');
+    font-weight: 400;
+    font-style: italic;
+ }
+
+ @font-face {
+    font-family: 'ubuntu';
+    font-display: swap;
+    src: local('ubuntu-bold')
+    url("../fonts/ubuntu-bold-webfont.woff2") format('woff2'),
+    url("../fonts/ubuntu-bold-webfont.woff") format('woff');
+    font-weight: 700;
+    font-style: normal;
+ }
+
+ @font-face {
+    font-family: 'ubuntu';
+    font-display: swap;
+    src: local('ubuntu-bolditalic')
+    url("../fonts/ubuntu-bolditalic-webfont.woff2") format('woff2'),
+    url("../fonts/ubuntu-bolditalic-webfont.woff") format('woff');
+    font-weight: 700;
+    font-style: italic;
+ }
+
+ @font-face {
+    font-family: 'ubuntu';
+    font-display: swap;
+    src: local('ubuntu-light')
+    url("../fonts/ubuntu-light-webfont.woff2") format('woff2'),
+    url("../fonts/ubuntu-light-webfont.woff") format('woff');
+    font-weight: 300;
+    font-style: normal;
+ }
+
+ @font-face {
+    font-family: 'ubuntu';
+    font-display: swap;
+    src: local('ubuntu-lightitalic')
+    url("../fonts/ubuntu-lightitalic-webfont.woff2") format('woff2'),
+    url("../fonts/ubuntu-lightitalic-webfont.woff") format('woff');
+    font-weight: 300;
+    font-style: italic;
+ }
+
+ @font-face {
+    font-family: 'ubuntu';
+    font-display: swap;
+    src: local('ubuntu-medium')
+    url("../fonts/ubuntu-medium-webfont.woff2") format('woff2'),
+    url("../fonts/ubuntu-medium-webfont.woff") format('woff');
+    font-weight: 500;
+    font-style: normal;
+ }
+
+ @font-face {
+    font-family: 'ubuntu';
+    font-display: swap;
+    src: local('ubuntu-mediumitalic')
+    url("../fonts/ubuntu-mediumitalic-webfont.woff2") format('woff2'),
+    url("../fonts/ubuntu-mediumitalic-webfont.woff") format('woff');
+    font-weight: 500;
+    font-style: italic;
+ }
+
